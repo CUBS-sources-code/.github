@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./CUBSlogo.png">
+    <img src="https://github.com/CUBS-sources-code/.github/blob/main/profile/CUBSlogo.png?raw=true">
 <p>
 
 # Welcome to Chula Blockchain Society
